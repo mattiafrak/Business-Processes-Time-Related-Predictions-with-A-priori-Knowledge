@@ -1,2 +1,1 @@
-data/* linguist-vendored
-.idea/* linguist-vendored
+*.xml linguist-language=Python
