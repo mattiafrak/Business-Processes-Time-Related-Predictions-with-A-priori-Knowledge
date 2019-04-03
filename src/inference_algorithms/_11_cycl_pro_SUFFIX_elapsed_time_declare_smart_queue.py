@@ -3,7 +3,7 @@ This file is build based on the code by Anton Yeshchenko found in evaluate_suffi
 
 here the beam search algorithm is implemented with a modified queueing algorithm.
 
-Author: Kaur Jarvpold
+Author: Mattia Fraccaro
 """
 from __future__ import division
 
