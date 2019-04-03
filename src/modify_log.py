@@ -1,3 +1,9 @@
+"""
+Here timestamps are updated in order to have elapsed times following a particular pattern/rule
+
+Author: Mattia Fraccaro
+"""
+
 import csv
 import time
 from datetime import datetime, timedelta
