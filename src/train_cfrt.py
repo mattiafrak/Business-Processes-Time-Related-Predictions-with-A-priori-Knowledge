@@ -9,7 +9,7 @@ by changing its name in line 46.
 it is recommended to run this script on GPU, as recurrent networks are quite
 computationally intensive.
 
-Author: Niek Tax
+Author: Mattia Fraccaro
 """
 
 from __future__ import print_function, division
