@@ -1,18 +1,11 @@
-# Incremental predictive monitoring of Business Processes with a-priori knowledge
+# Business Processes Predictions with Multi-Perspective A-Priori Knowledge
 
 ## Description
-Continuation of [this](https://github.com/kaurjvpld/Incremental-Predictive-Monitoring-of-Business-Processes-with-A-priori-knowledge) project in which a predictive model is tasked to predict the continuation of a business process.
+Continuation of [this](https://github.com/kaurjvpld/Incremental-Predictive-Monitoring-of-Business-Processes-with-A-priori-knowledge) project in which a predictive model is tasked to predict the next timesteps of an input business process log. We extended it in order to take in consideration also temporal aspects.
 
 The input consists of categorical variables as well as real-valued timestamps, and the prediction consists of next time-step variables.
 
-In this project, we leverage given Multi-Perspective A-priori Knowledge to improve inference on new data.
-
-This repo is based on code from:
-
-* [Process-Sequence-Prediction-with-A-priori-knowledge](https://github.com/yesanton/Process-Sequence-Prediction-with-A-priori-knowledge)
-* [ProcessSequencePrediction](https://github.com/verenich/ProcessSequencePrediction)
-
-The LTLCheckForTraces.jar program is an artifact generated from the code at [this](https://github.com/HitLuca/LTLCheckForTraces) repo.
+In this project, we leverage given Multi-Perspective A-priori Knowledge to improve the accuracy of the predictions.
 
 ### Predictive model
 This contribution aims at improving the existing predictive model only, without improving/developing the existing prediction methods
